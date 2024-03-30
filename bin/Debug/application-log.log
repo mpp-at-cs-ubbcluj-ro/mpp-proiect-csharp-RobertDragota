@@ -1,0 +1,414 @@
+2024-03-30 01:20:36,849 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:20:37,223 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: 
+2024-03-30 01:20:53,278 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:20:53,597 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: 
+2024-03-30 01:20:55,729 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:20:55,730 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: 
+2024-03-30 01:20:57,839 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:20:57,840 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: 
+2024-03-30 01:26:32,167 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:26:32,544 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: 
+2024-03-30 01:42:18,397 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:42:18,749 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: Robert12
+2024-03-30 01:44:57,141 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:44:57,475 [1] INFO  Lab3.Repository.RepoAccount [(null)] - No account found for Username: Robert12
+2024-03-30 01:44:57,489 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:44:57,514 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account added successfully for Username: Robert12, Id: 43
+2024-03-30 01:45:24,030 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:45:24,063 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:45:24,076 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:45:24,092 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:47:32,208 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:47:32,568 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:47:32,594 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:47:32,607 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:50:51,628 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:50:51,971 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:50:51,995 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:50:52,008 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:53:45,083 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:53:45,494 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:53:45,512 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:53:45,522 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:54:50,835 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:54:51,177 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:54:51,200 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:54:51,212 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:54:59,737 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:54:59,757 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error filtering trips.
+Npgsql.PostgresException (0x80004005): 42883: operator does not exist: timestamp without time zone >= integer
+
+POSITION: 80
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Lab3.Repository.RepoTrip.filterTrips(String destination, Int32 startHour, Int32 finishHour) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoTrip.cs:line 260
+  Exception data:
+    Severity: ERROR
+    SqlState: 42883
+    MessageText: operator does not exist: timestamp without time zone >= integer
+    Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+    Position: 80
+    File: parse_oper.c
+    Line: 656
+    Routine: op_error
+2024-03-30 01:57:52,259 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:57:52,646 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:57:52,669 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:57:52,682 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:58:01,417 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:58:01,427 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error filtering trips.
+Npgsql.PostgresException (0x80004005): 42883: operator does not exist: timestamp without time zone >= integer
+
+POSITION: 80
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Lab3.Repository.RepoTrip.filterTrips(String destination, Int32 startHour, Int32 finishHour) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoTrip.cs:line 260
+  Exception data:
+    Severity: ERROR
+    SqlState: 42883
+    MessageText: operator does not exist: timestamp without time zone >= integer
+    Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+    Position: 80
+    File: parse_oper.c
+    Line: 656
+    Routine: op_error
+2024-03-30 01:59:25,997 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:59:26,389 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 01:59:26,419 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:59:26,436 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 01:59:48,973 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 01:59:48,984 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error filtering trips.
+Npgsql.PostgresException (0x80004005): 42883: operator does not exist: timestamp without time zone >= integer
+
+POSITION: 80
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Lab3.Repository.RepoTrip.filterTrips(String destination, Int32 startHour, Int32 finishHour) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoTrip.cs:line 260
+  Exception data:
+    Severity: ERROR
+    SqlState: 42883
+    MessageText: operator does not exist: timestamp without time zone >= integer
+    Hint: No operator matches the given name and argument types. You might need to add explicit type casts.
+    Position: 80
+    File: parse_oper.c
+    Line: 656
+    Routine: op_error
+2024-03-30 02:00:43,468 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:00:43,820 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 02:00:43,838 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:00:43,848 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 02:04:13,738 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:04:14,101 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 02:04:20,466 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:04:20,467 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 02:04:20,485 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:04:20,505 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 02:04:27,837 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:04:27,850 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 02:05:46,749 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:05:46,750 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 02:06:17,482 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:06:17,850 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 02:06:17,875 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:06:17,887 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 02:06:38,472 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 02:06:38,474 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:38:19,873 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:38:20,528 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:38:20,567 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:38:20,589 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:39:58,727 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:39:59,305 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:39:59,335 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:39:59,352 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:41:01,890 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:41:01,901 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:46:15,451 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:46:16,028 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:46:16,067 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:46:16,087 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:46:27,478 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:46:27,481 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:47:46,149 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:47:46,622 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:47:46,645 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:47:46,660 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:48:10,931 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:48:10,935 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:50:23,805 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:50:24,277 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:50:24,307 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:50:24,326 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:50:45,639 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:50:45,641 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:51:40,097 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:51:40,569 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:51:40,596 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:51:40,614 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:51:47,335 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:51:47,337 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 09:52:40,738 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:52:41,334 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 09:52:41,361 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:52:41,379 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 09:52:51,216 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 09:52:51,220 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 10:00:52,798 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:00:53,303 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:00:58,841 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:00:58,859 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:06:48,745 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:06:49,296 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:06:49,329 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:06:49,349 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:06:55,548 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:06:55,550 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 10:14:50,718 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:14:51,265 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:14:51,305 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:14:51,323 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:15:10,652 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:15:10,654 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trips filtered successfully.
+2024-03-30 10:38:35,743 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:38:36,284 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:38:36,321 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:38:36,339 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:53:48,555 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:53:49,032 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:53:49,067 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:53:49,088 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:55:13,537 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:55:14,049 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:55:14,084 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:55:14,102 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:55:27,838 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:55:27,876 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error adding reservation for Id: 0
+Npgsql.PostgresException (0x80004005): 23503: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.<<ReadMessage>g__ReadMessageSequential|49_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.<ExecuteScalar>d__110.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteScalar()
+   at Lab3.Repository.RepoReservation.Save(Reservation entity) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoReservation.cs:line 103
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: reservations
+    ConstraintName: reservations_account_id_fkey
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+2024-03-30 10:55:27,890 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:55:27,904 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trip updated successfully with ID: 1
+2024-03-30 10:56:00,915 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:56:01,441 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:56:01,472 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:56:01,490 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:59:39,174 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:59:39,601 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 10:59:39,628 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:59:39,642 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 10:59:56,088 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:59:56,105 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error adding reservation for Id: 0
+Npgsql.PostgresException (0x80004005): 23503: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.<<ReadMessage>g__ReadMessageSequential|49_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.<ExecuteScalar>d__110.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteScalar()
+   at Lab3.Repository.RepoReservation.Save(Reservation entity) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoReservation.cs:line 103
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: reservations
+    ConstraintName: reservations_account_id_fkey
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+2024-03-30 10:59:56,114 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:59:56,123 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trip updated successfully with ID: 1
+2024-03-30 10:59:57,488 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 10:59:57,488 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 11:00:47,510 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:00:47,890 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 11:00:47,920 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:00:47,940 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 11:01:11,052 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:01:11,072 [1] ERROR Lab3.Repository.RepoAccount [(null)] - Error adding reservation for Id: 0
+Npgsql.PostgresException (0x80004005): 23503: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessageLong>d__231.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.<<ReadMessage>g__ReadMessageSequential|49_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlCommand.<ExecuteReader>d__119.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.<ExecuteScalar>d__110.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteScalar()
+   at Lab3.Repository.RepoReservation.Save(Reservation entity) in C:\Users\robert12\Desktop\C#_remake\Lab3\Repository\RepoReservation.cs:line 103
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "reservations" violates foreign key constraint "reservations_account_id_fkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: reservations
+    ConstraintName: reservations_account_id_fkey
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+2024-03-30 11:01:11,082 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:01:11,092 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trip updated successfully with ID: 1
+2024-03-30 11:01:12,605 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:01:12,606 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 11:03:20,789 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:03:21,159 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 11:03:21,187 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:03:21,201 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 11:05:22,578 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:05:22,944 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Account found for Username: Robert12
+2024-03-30 11:05:22,969 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:05:22,982 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
+2024-03-30 11:05:37,211 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:05:37,229 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Reservation added successfully for Id: 4
+2024-03-30 11:05:37,230 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:05:37,240 [1] INFO  Lab3.Repository.RepoAccount [(null)] - Trip updated successfully with ID: 1
+2024-03-30 11:05:38,613 [1] INFO  Lab3.Utility.DbUtils [(null)] - Trying to connect to Postgres database ... Server=127.0.0.1;Port=5432;Database=travel_agency;User Id=robert12;Password=Asmodeus011235;
+2024-03-30 11:05:38,614 [1] INFO  Lab3.Repository.RepoAccount [(null)] - All trips retrieved successfully.
