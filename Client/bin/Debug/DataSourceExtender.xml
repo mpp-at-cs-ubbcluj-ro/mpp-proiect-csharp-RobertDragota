@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataSourceExtender</name>
+    </assembly>
+    <members>
+        <member name="T:DataSourceExtender.ActionEventArgs`2">
+            <summary>
+            
+            </summary>
+            <typeparam name="TParam"></typeparam>
+            <typeparam name="TResult"></typeparam>
+        </member>
+        <member name="M:DataSourceExtender.ActionEventArgs`2.#ctor(`0,System.Func{`0,`1})">
+            <summary>
+            
+            </summary>
+            <param name="parameter"></param>
+            <param name="function"></param>
+        </member>
+        <member name="M:DataSourceExtender.ActionEventArgs`2.Execute">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.ExecutionQueryError">
+            <summary>
+            Occurs when the execution of any query throws an exception
+            </summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Selected">
+            <summary>
+            Occurs when a data retrieval operation has completed.
+            </summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Selecting">
+            <summary>
+            Occurs before a data retrieval operation.
+            </summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Updated">
+            <summary>Occurs when an <see>
+            <cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Update</cref>
+            </see> operation has completed.</summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Updating">
+            <summary>
+            Occurs before an <see><cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Update</cref></see>
+            operation.
+            </summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Deleted">
+            <summary>Occurs when a <see>
+            <cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Delete</cref>
+            </see> operation has completed.
+            </summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Deleting">
+            <summary>Occurs before a <see>
+            <cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Delete</cref>
+            </see> operation.</summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Inserted">
+            <summary>Occurs when an <see>
+            <cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Insert</cref>
+            </see> operation has completed.</summary>
+        </member>
+        <member name="E:DataSourceExtender.BusinessDataSource.Inserting">
+            <summary>Occurs before an <see>
+            <cref>Overload:System.Web.UI.WebControls.ObjectDataSourceView.Insert</cref>
+            </see> operation.</summary>
+        </member>
+        <member name="M:DataSourceExtender.BusinessDataSourceView.ExecuteSelect(System.Web.UI.DataSourceSelectArguments)">
+            <summary>
+            
+            </summary>
+            <param name="arguments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataSourceExtender.BusinessDataSourceView.ExecuteUpdate(System.Collections.IDictionary,System.Collections.IDictionary,System.Collections.IDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="keys"></param>
+            <param name="values"></param>
+            <param name="oldValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataSourceExtender.BusinessDataSourceView.ExecuteDelete(System.Collections.IDictionary,System.Collections.IDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="keys"></param>
+            <param name="oldValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataSourceExtender.BusinessDataSourceView.ExecuteInsert(System.Collections.IDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataSourceExtender.BusinessDataSourceView.GetSelectParameters">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DataSourceExtender.DeletingEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.SourceEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.SourceEventArgs.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.SourceEventArgs.#ctor(System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+        </member>
+        <member name="P:DataSourceExtender.SourceEventArgs.SourceType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.DeletingEventArgs.#ctor(System.Type,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="key"></param>
+        </member>
+        <member name="P:DataSourceExtender.DeletingEventArgs.Key">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.ControlNotFoundException.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="controlID"></param>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.ControlNotFoundException.#ctor(System.String,System.String,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="controlID"></param>
+            <param name="innerException"></param>
+        </member>
+        <member name="P:DataSourceExtender.Exceptions.ControlNotFoundException.ControlID">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.Exceptions.ControlParameterException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.ControlParameterException.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="parameterName"></param>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.ControlParameterException.#ctor(System.String,System.String,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="parameterName"></param>
+            <param name="innerException"></param>
+        </member>
+        <member name="T:DataSourceExtender.Exceptions.DelegateNotFoundException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.DelegateNotFoundException.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="delegateTarget"></param>
+            <param name="message"></param>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.DelegateNotFoundException.#ctor(System.String,System.String,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="delegateTarget"></param>
+            <param name="message"></param>
+            <param name="innerException"></param>
+        </member>
+        <member name="P:DataSourceExtender.Exceptions.DelegateNotFoundException.DelegateTarget">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.Exceptions.SettingsControlException">
+            <summary>
+            Rappresents error when web Controls haven't been initialized correctly.
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.SettingsControlException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:DataSourceExtender.Exceptions.SettingsControlException.#ctor(System.String,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="innerException"></param>
+        </member>
+        <member name="T:DataSourceExtender.InnerControlParameter">
+            <summary>
+            Binds the value of a property
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.InnerControlParameter.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.SavingEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.SavingEventArgs.#ctor(System.Type,System.Collections.IDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="values"></param>
+        </member>
+        <member name="P:DataSourceExtender.SavingEventArgs.Values">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.IPagingResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.IQueryResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IQueryResult.QueryException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IPagingResult.MaximumRows">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IPagingResult.StartRowIndex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IPagingResult.TotalRowCount">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IPagingResult.Result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.IPersisterResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.IPersisterResult.RowsAffected">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.Impl.PagingResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Impl.QueryResult.#ctor(System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+        </member>
+        <member name="M:DataSourceExtender.Impl.QueryResult.#ctor(System.Type,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="queryException"></param>
+        </member>
+        <member name="P:DataSourceExtender.Impl.QueryResult.QueryException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.QueryResult.SourceType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Impl.PagingResult.#ctor(System.Type,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="queryException"></param>
+        </member>
+        <member name="M:DataSourceExtender.Impl.PagingResult.#ctor(System.Type,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="startRowIndex"></param>
+            <param name="maximumRows"></param>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PagingResult.MaximumRows">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PagingResult.StartRowIndex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PagingResult.TotalRowCount">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PagingResult.Result">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.Impl.PersisterResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Impl.PersisterResult.#ctor(System.Type,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="rowsAffected"></param>
+        </member>
+        <member name="M:DataSourceExtender.Impl.PersisterResult.#ctor(System.Type,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="queryException"></param>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PersisterResult.RowsAffected">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PersisterResult.QueryException">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.PersisterResult.SourceType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.QueryResultEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.QueryResultEventArgs.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.QueryResultEventArgs.#ctor(DataSourceExtender.IQueryResult)">
+            <summary>
+            
+            </summary>
+            <param name="queryResult"></param>
+        </member>
+        <member name="P:DataSourceExtender.QueryResultEventArgs.QueryResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.SelectingEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.SelectingEventArgs.#ctor(System.Web.UI.DataSourceSelectArguments,System.Collections.IDictionary,System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="arguments"></param>
+            <param name="parameters"></param>
+            <param name="sourceType"></param>
+        </member>
+        <member name="M:DataSourceExtender.SelectingEventArgs.AddParameter(System.String,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataSourceExtender.SelectingEventArgs.RemoveParameter(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DataSourceExtender.SelectingEventArgs.StartRowIndex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.SelectingEventArgs.MaximumRows">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.SelectingEventArgs.Parameters">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.Impl.SourceParameter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.Impl.SourceParameter.#ctor(System.String,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+        </member>
+        <member name="P:DataSourceExtender.Impl.SourceParameter.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.Impl.SourceParameter.Value">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:DataSourceExtender.UpdatingEventArgs">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:DataSourceExtender.UpdatingEventArgs.#ctor(System.Type,System.Object,System.Collections.IDictionary,System.Collections.IDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="sourceType"></param>
+            <param name="key"></param>
+            <param name="values"></param>
+            <param name="oldValues"></param>
+        </member>
+        <member name="P:DataSourceExtender.UpdatingEventArgs.Key">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.UpdatingEventArgs.Values">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DataSourceExtender.UpdatingEventArgs.OldValues">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

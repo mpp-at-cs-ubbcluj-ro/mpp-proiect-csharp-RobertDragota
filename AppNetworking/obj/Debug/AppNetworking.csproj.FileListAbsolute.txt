@@ -1,0 +1,12 @@
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppNetworking.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppNetworking.pdb
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppDomain.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppServices.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppDomain.pdb
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppServices.pdb
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\bin\Debug\AppServices.exe.config
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\obj\Debug\AppNetworking.csproj.AssemblyReference.cache
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\obj\Debug\AppNetworking.csproj.CoreCompileInputs.cache
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\obj\Debug\AppNetworking.csproj.CopyComplete
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\obj\Debug\AppNetworking.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppNetworking\obj\Debug\AppNetworking.pdb

@@ -1,0 +1,6 @@
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\bin\Debug\AppDomain.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\bin\Debug\AppDomain.pdb
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\obj\Debug\AppDomain.csproj.AssemblyReference.cache
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\obj\Debug\AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\obj\Debug\AppDomain.exe
+C:\Users\robert12\Desktop\MPPC#\Lab4\Travel_Agency\AppDomain\obj\Debug\AppDomain.pdb
